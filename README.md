@@ -5,7 +5,7 @@
 #### git branch <branch_name>
 #### git checkout <branch_name>
 
-
+## Locust quickstart url -> https://docs.locust.io/en/stable/quickstart.html
 # Installation and Running Locust
 ### pip install locust
 ### locust -f <locust_file>
